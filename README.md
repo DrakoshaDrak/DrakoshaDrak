@@ -13,7 +13,7 @@ I'm a 2nd year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./img/maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> <img src="./gif/g5.gif" alt="gif" width="1280"> </a>
+<a href="javascript:void(0)"> <br> <img src="./gif/g6.gif" alt="gif" width="1280"> </a>
 
 <div align="center">
     <h2><img src="./img/redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./img/redMan.gif" alt="Redman" width="32"></h2>
@@ -23,7 +23,7 @@ I'm a 2nd year student pursuing a Bachelor's degree in Software Engineering at t
   <a href="https://github.com/DrakoshaDrak/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DrakoshaDrak&show=reviews&show_icons=true&theme=midnight-purple&include_all_commits=true&bg_color=00000000#gh-dark-mode-only">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DrakshaDrak&show=reviews&show_icons=true&include_all_commits=true&theme=graywhite&bg_color=00000000#gh-light-mode-only">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DrakoshaDrak&show=reviews&show_icons=true&include_all_commits=true&theme=graywhite&bg_color=00000000#gh-light-mode-only">
       <img src="https://github-readme-stats.vercel.app/api?username=DrakoshaDrak&show=reviews&show_icons=true&theme=default&include_all_commits=true" alt="Anurag's GitHub stats">
     </picture>
   </a>
