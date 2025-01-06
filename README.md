@@ -13,7 +13,7 @@ I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./img/maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> ![Гифка](gif/g3.gif) {: style="width:600px; height:auto;" } </a>
+<a href="javascript:void(0)"> <br> <img src="./img/header.gif" alt="Header" width="1280" height="726"> </a>
 
 <div align="center">
     <h2><img src="./img/redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./img/redMan.gif" alt="Redman" width="32"></h2>
