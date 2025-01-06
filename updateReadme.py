@@ -43,7 +43,7 @@ readme_content = f"""
 <a href="javascript:void(0)"> ![Гифка](/img/header.gif) </a>
 <h3 align="center">
 
-I'm a 1st year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
+I'm a 2nd year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
 
 </h3>
 
