@@ -2,7 +2,7 @@
 <a href="javascript:void(0)"> ![Гифка](/img/header.gif) </a>
 <h3 align="center">
 
-I'm a 2nd year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
+I'm a 3rd year student pursuing a Bachelor's degree in Software Engineering at the Polytechnic University 👨‍🎓. I enjoy working with different technologies and exploring various fields, as well as learning new things 👾. Currently, I'm developing simple programs and implementing various data structures, which helps me understand their inner workings and principles of operation 💻.
 
 </h3>
 
@@ -13,7 +13,7 @@ I'm a 2nd year student pursuing a Bachelor's degree in Software Engineering at t
     <img src="./img/maket3.png" alt="Git" width="100">
 </div>
 
-<a href="javascript:void(0)"> <br> <img src="./gif/g3.gif" alt="gif" width="1280"> </a>
+<a href="javascript:void(0)"> <br> <img src="./gif/g4.gif" alt="gif" width="1280"> </a>
 
 <div align="center">
     <h2><img src="./img/redMan.gif" alt="Redman" width="32"> My GitHub Stats <img src="./img/redMan.gif" alt="Redman" width="32"></h2>
